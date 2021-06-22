@@ -1,8 +1,8 @@
 name: how_old_am_i
 description: A new Flutter project.
 version: 0.0.1
-author: Mihir Pipermitwala
-homepage:
+author: Mihir Pipermitwala <mihirpipermitwala@gmail.com>
+homepage: https://github.com/mihirpipermitwala/how_old_am_i
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
