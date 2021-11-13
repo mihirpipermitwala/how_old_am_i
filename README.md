@@ -1,7 +1,7 @@
 # how_old_am_i
 [![pub package](https://img.shields.io/pub/v/how_old_am_i.svg)](https://pub.dev/packages/how_old_am_i)
 
-A Flutter package that helps to find Date Difference.
+A Flutter package to calculate someone's age in days, months, and years; in addition, it can be used to find the difference between two dates.
 
 
 ## Installtion
